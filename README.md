@@ -1,4 +1,3 @@
-
 #  Innocent Dalvik Obfuscator  #
 
 
@@ -27,7 +26,9 @@ This is a proof-of-concept Dalvik bytecode obfuscator which performs four transf
     - (bak)smali [2]
 
 (2) Modify the options.config file to change relevant paths. 
+
 (3) A testKey is available by default for the APK signing, replace with your own key if you want.
+
 (4) Two ways to use:
 
     (4.1) ./gui (make sure you have python Tkinter -> apt-get install python-tk
